@@ -1,0 +1,8 @@
+{
+  "name": "furo-config",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "furo-minixs": "^0.0.1"
+  }
+}

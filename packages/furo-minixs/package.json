@@ -1,0 +1,9 @@
+{
+  "name": "furo-minixs",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "@furo/fbp": "^4.0.5"
+  }
+}
