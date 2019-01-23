@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "@polymer/polymer": "^3.0.0",
-    "@furo/fbp": "^4.0.5"
+    "@furo/fbp": "^4.0.5",
+    "@polymer/polymer": "^3.0.0"
   }
 }
